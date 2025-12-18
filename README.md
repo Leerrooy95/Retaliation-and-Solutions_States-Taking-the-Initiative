@@ -16,7 +16,7 @@ Last updated: December 17, 2025
 
 # *Defense attorneys have successfully challenged planted digital evidence*: 
 
-# The Trojan Horse Defense has produced acquittals in multiple jurisdictions when defendants demonstrated that malware could have placed incriminating files without their knowledge:
+**The Trojan Horse Defense has produced acquittals in multiple jurisdictions when defendants demonstrated that malware could have placed incriminating files without their knowledge**:
 
 *Julian Green (UK, 2003)*: Charged after 172 indecent images found on computer. Defense forensic expert found 11 Trojan horses capable of placing images without Green's knowledge. Acquitted at Exeter Crown Court, prosecution offered no evidence.
 
