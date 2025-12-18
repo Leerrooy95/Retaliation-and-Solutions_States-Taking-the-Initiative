@@ -1,4 +1,4 @@
-###Research Retaliation and Solutions: States Taking the Initiative
+### Research Retaliation and Solutions: States Taking the Initiative
 
 v1.0
 Last updated: December 17, 2025
@@ -62,7 +62,8 @@ Last updated: December 17, 2025
 
 • *Massachusetts's Article 14* has generated extensive jurisprudence providing greater protection for digital communications, including requiring warrants for cell site location information (Commonwealth v. Augustine) and GPS tracking (Commonwealth v. Connolly).
 
-# Defense attorneys can argue under these provisions that digital evidence obtained without meeting heightened state standards should be excluded, that state privacy provisions anticipated technological change and protect against modern digital surveillance, and that third-party doctrine should not apply under state constitutions that protect "private affairs.”
+
+*Defense attorneys can argue under these provisions that digital evidence obtained without meeting heightened state standards should be excluded, that state privacy provisions anticipated technological change and protect against modern digital surveillance, and that third-party doctrine should not apply under state constitutions that protect "private affairs.”*
 
 
 **State whistleblower protections vary dramatically in strength**:
