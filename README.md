@@ -18,13 +18,14 @@ Last updated: December 17, 2025
 
 **The Trojan Horse Defense has produced acquittals in multiple jurisdictions when defendants demonstrated that malware could have placed incriminating files without their knowledge**:
 
-*Julian Green (UK, 2003)*: Charged after 172 indecent images found on computer. Defense forensic expert found 11 Trojan horses capable of placing images without Green's knowledge. Acquitted at Exeter Crown Court, prosecution offered no evidence.
+• *Julian Green (UK, 2003)*: Charged after 172 indecent images found on computer. Defense forensic expert found 11 Trojan horses capable of placing images without Green's knowledge. Acquitted at Exeter Crown Court, prosecution offered no evidence.
 
-*Karl Schofield (UK, 2003)*: Accused of creating 14 indecent images. Defense expert found Trojan responsible. Charges dismissed at Reading Crown Court.
+• *Karl Schofield (UK, 2003)*: Accused of creating 14 indecent images. Defense expert found Trojan responsible. Charges dismissed at Reading Crown Court.
 
-*Eugene Pitts (Alabama, 2003)*: Accountant charged with tax evasion facing $900,000 fine and 33 years prison. Defense argued computer virus modified electronic files. Acquitted of all charges.
+• *Eugene Pitts (Alabama, 2003)*: Accountant charged with tax evasion facing $900,000 fine and 33 years prison. Defense argued computer virus modified electronic files. Acquitted of all charges.
 
-*Chain of custody challenges have also succeeded*; in United States v. Scott, the court ruled evidence integrity was compromised after defense discovered improper documentation, transfers without logging, and inadequate storage conditions. Successful defense strategies include:
+
+**Chain of custody challenges have also succeeded**; in United States v. Scott, the court ruled evidence integrity was compromised after defense discovered improper documentation, transfers without logging, and inadequate storage conditions. Successful defense strategies include:
 
 1.) Demanding complete forensic images early (not just selected files).
 
@@ -38,13 +39,14 @@ Last updated: December 17, 2025
 
 6.) Reviewing storage conditions and handling procedures.
 
-*Funding mechanisms for indigent defendants*:
 
-*North Carolina Expert Services Project (2021 pilot, expanding 2025)*: Public defenders can request digital evidence experts without court petition.
+**Funding mechanisms for indigent defendants**:
 
-*Michigan Indigent Defense Commission Standard 3*: Direct expert funding from Public Defender office without court motions.
+• *North Carolina Expert Services Project (2021 pilot, expanding 2025)*: Public defenders can request digital evidence experts without court petition.
 
-*Digital Innocence Initiative*: Free resources and Digital Evidence Review Unit partnerships for public defenders.
+• *Michigan Indigent Defense Commission Standard 3*: Direct expert funding from Public Defender office without court motions.
+
+• *Digital Innocence Initiative*: Free resources and Digital Evidence Review Unit partnerships for public defenders.
 
 ---
 
