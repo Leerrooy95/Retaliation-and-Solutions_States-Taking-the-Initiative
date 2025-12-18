@@ -14,7 +14,7 @@ Last updated: December 17, 2025
 
 ---
 
-# *Defense attorneys have successfully challenged planted digital evidence*: 
+**Defense attorneys have successfully challenged planted digital evidence**: 
 
 **The Trojan Horse Defense has produced acquittals in multiple jurisdictions when defendants demonstrated that malware could have placed incriminating files without their knowledge**:
 
