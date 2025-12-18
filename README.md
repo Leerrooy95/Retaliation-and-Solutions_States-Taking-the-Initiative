@@ -107,7 +107,7 @@ Last updated: December 17, 2025
 
 **Key indicators of planted files include**: 
 
-• clusters of files with identical timestamps (statistically improbable).
+• Clusters of files with identical timestamps (statistically improbable).
 
 • Modification times earlier than creation times (indicating copy operations), timestamps predating OS installation, and files with metadata patterns matching known timestomping tools. 
 
