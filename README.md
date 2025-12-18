@@ -4,7 +4,7 @@ v1.0
 Last updated: December 17, 2025
 
 **Overview**: 
- > People are deterred from investigating topics using verified sources and legitimate methods, this creates a situation where society simply don't look into things that they think could be an issue, simply out of fear of retaliation.
+ > People are deterred from investigating topics using verified sources and legitimate methods, this creates a situation where society simply doesn't look into things that they think could be an issue, simply out of fear of retaliation.
 
 > The fear of planted evidence specifically operates as a force multiplier. The Bhima Koregaon case demonstrates that activists with no connection to violence can spend years in prison based entirely on fabricated digital files. For potential whistleblowers considering disclosure of government wrongdoing, this represents an existential threat beyond typical retaliation concerns like termination or clearance revocation.
 
