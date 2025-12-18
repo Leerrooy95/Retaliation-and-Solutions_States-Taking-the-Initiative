@@ -5,11 +5,14 @@ Last updated: December 17, 2025
 
 **Overview**: 
  > People are deterred from investigating topics using verified sources and legitimate methods, this creates a situation where society simply don't look into things that they think could be an issue, simply out of fear of retaliation.
+
 > The fear of planted evidence specifically operates as a force multiplier. The Bhima Koregaon case demonstrates that activists with no connection to violence can spend years in prison based entirely on fabricated digital files. For potential whistleblowers considering disclosure of government wrongdoing, this represents an existential threat beyond typical retaliation concerns like termination or clearance revocation.
+
 > The prosecution pattern under the Espionage Act (Chelsea Manning, Edward Snowden, Daniel Hale, Reality Winner) has created documented deterrence effects. The National Whistleblower Center notes that "whistleblowers in the intelligence community must be afforded real protections and clear avenues of reporting." Current protections, including Presidential Policy Directive 19 for intelligence community personnel, are widely criticized as providing inadequate legal remedy.
+
 > This repo tracks methods used for retaliation, reasons for retaliation, and ways states or counties can step up to protect and serve their citizens.
 
-—
+---
 
 **Defense attorneys have successfully challenged planted digital evidence**:
 The Trojan Horse Defense has produced acquittals in multiple jurisdictions when defendants demonstrated that malware could have placed incriminating files without their knowledge:
@@ -28,7 +31,7 @@ Reviewing storage conditions and handling procedures.
 *Michigan Indigent Defense Commission Standard 3*: Direct expert funding from Public Defender office without court motions.
 *Digital Innocence Initiative*: Free resources and Digital Evidence Review Unit partnerships for public defenders.
 
-—
+---
 
 **State constitutional privacy provisions offer stronger protections than federal law**:
 
@@ -53,7 +56,7 @@ Washington RCW 9A.90.080: Specific statutory provisions for electronic data tamp
 
 **Key protection gap**: State whistleblower laws typically apply only to public employees. For defense contractor whistleblowers, federal protections (False Claims Act qui tam, DoD IG, NDAA whistleblower provisions) remain primary.
 
-—
+---
 
 **Technical detection methods can identify planted files through forensic artifacts**:
 *Digital forensic examiners can detect evidence planting through analysis of NTFS file system artifacts*, which create redundant timestamps that cannot all be falsified simultaneously.
@@ -61,6 +64,7 @@ The "NTFS Triforce" for detecting manipulation consists of:
 $MFT (Master File Table): Contains dual timestamps—$STANDARD_INFORMATION (modifiable by user-level tools) and $FILE_NAME (only writable by kernel, immune to timestomping).
 $LogFile: Transaction log recording file operations with redo/undo information.
 $UsnJrnl (USN Journal): Records "BasicInfoChange" events at the actual time of manipulation, even when visible timestamps are altered. 
+
 **Key indicators of planted files include**: clusters of files with identical timestamps (statistically improbable), modification times earlier than creation times (indicating copy operations), timestamps predating OS installation, and files with metadata patterns matching known timestomping tools. 
 
 **Open-source tools states could mandate for detection**:
@@ -79,7 +83,7 @@ Cross-reference with prefetch files, event logs, and link files (ScienceDirect).
 Document and preserve all findings with hash verification
 Estimated cost for this basic capability: $10,000-50,000 using open-source tools and basic hardware write blockers ($200-6,000).
 
-—
+---
 
 ##Implementation requires targeting the easiest wins first
 
@@ -97,4 +101,3 @@ Create independent lab structure separating forensic services from law enforceme
 
 **Addressing opposition**
 Reform has succeeded in Texas (a law-and-order state) because high-profile wrongful convictions (Cameron Todd Willingham) catalyzed public support, bipartisan legislative champions persisted, and once politics were removed, reform passed easily. The key is framing forensic standards as ensuring convictions will withstand appeal, protecting against civil liability, and maintaining public confidence in the justice system.
-
